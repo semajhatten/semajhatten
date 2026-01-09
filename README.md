@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 
-  - [osTicket: Post-Installation Configuration](https://github.com/semajhatten/post-install-config)
+  - [osTicket: Setup for Ticketing System](https://github.com/semajhatten/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/semajhatten/ticket-lifecycle)
  
 
